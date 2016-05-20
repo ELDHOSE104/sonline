@@ -6,4 +6,5 @@
 ### The application is purely maintained at the admin side and is highly secure. Users can play the game by correctly answering and going to the next levels.
 ### Licensed under GNU General public License
 ### By [eldhose k shibu](http://eldhose.me/)
+[![support](https://baikal.io/badges/ELDHOSE104/s-online)](https://baikal.io/ELDHOSE104/s-online)
 
